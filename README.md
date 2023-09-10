@@ -1,2 +1,2 @@
 # raccoon.rs
-blazingly fast noSQL rust program that runs in o(n) time
+prints pic of ascii raccoon if ran with "ascii" argument
